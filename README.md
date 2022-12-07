@@ -1,4 +1,4 @@
-# Business-Data-Analytics-Intelligence
+# Business Data Analytics Intelligence
 Business Data Analytics Intelligence course notes and answers.<br>
 I made virtual env. for every lecture. You can see requirement.txt file on each lecture.<br>
 Source For Using Virtual env. for jupyter notebook and adding to kernel.
