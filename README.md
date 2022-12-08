@@ -7,7 +7,7 @@ Source For Using Virtual env. for jupyter notebook and adding to kernel.
 python -m venv myVenv
 source myVenv/bin/activate (if you are in windows command line you can write only: myVenv/bin/activate )
 pip install --user ipykernel
-python -m ipykernel install --user --name=myenv
+python -m ipykernel install --user --name=myVenv
 
 You can list them: jupyter kernelspec list
 
